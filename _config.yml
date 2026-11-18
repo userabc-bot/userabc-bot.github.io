@@ -1,0 +1,5 @@
+title: 技术笔记
+description: 关于 AI、LangGraph 与软件工程的实践记录
+theme: minima
+markdown: kramdown
+permalink: pretty
